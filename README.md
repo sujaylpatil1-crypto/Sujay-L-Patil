@@ -5,7 +5,7 @@
 - 💻 Currently learning **Data Structures and Algorithms**
 - 📱 Exploring **Android Development**
 - 🌱 Focused on improving problem-solving skills
-- 🎯 Goal: Become a strong software developer and contribute to open source
+- 🎯 Goal: Become a strong App developer 
 
 ---
 
